@@ -1,0 +1,94 @@
+@import './partials/varables','./partials/reset';
+@import './partials/loader';
+@import './partials/header','./partials/hero','./partials/about','./partials/contact',
+'./partials/project';
+@import './partials/responsive','./partials/animations';
+
+.cursor {
+    position: fixed;
+    top: -100%;
+    left: 12%;
+    height: 30px;
+    width: 30px;
+    background: #fff;
+    border-radius: 100px;
+    mix-blend-mode: difference;
+    z-index: 999; 
+    transition: 0.1s;
+}
+
+.scroll-guage {
+    background: var(--pry);
+    position: fixed;
+    top: 0px;
+    height: 7px;
+    left: 0;
+    right: 0;
+    width: 0px;
+    transition: 0.5s;
+    z-index: 29
+}
+
+
+.block{
+    margin:3rem 0
+}
+
+.title {
+    margin: 20px 5%;
+    width: 50vw;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    transition: 0.5s;
+    transform: translate(11%, 20px);
+    user-select: none;
+    letter-spacing: 3px;
+    perspective: 800px;
+
+}
+
+.title:hover {
+    transform: translate(11%, 20px) skew(-40deg);
+}
+
+
+
+
+
+.flex {
+    display: flex;
+}
+
+.socials a {
+    margin: 20px 0;
+}
+
+.flex.column {
+    flex-direction: column;
+}
+
+.flex .s-a {
+    justify-content: space-around;
+}
+
+.flex .s-b {
+    justify-content: space-between;
+}
+
+.flex img {
+    margin: 0 6px;
+    text-decoration: none;
+}
+
+
+.btn {
+    letter-spacing: 4px;
+    padding: 14px 16px;
+    border: 1px solid var(--pry);
+    color: var(--pry);
+    background-color: transparent;
+    transition: 0.34s;
+z-index:99;
+    transition:0.8s
+}

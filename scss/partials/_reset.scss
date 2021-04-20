@@ -1,0 +1,70 @@
+@import './varables' ;
+* {
+    margin: 0;
+    padding: 0;
+    /* color:#fff !important ; */
+    border-sizing: border-box;
+}
+
+html {
+    transition: 0.9s 0.6s ease;
+    // cursor: none;
+    scroll-behavior: smooth;
+    scroll-snap-type: proximity;
+}
+
+
+body {
+    font-family: 'Open Sans',sans-serif;
+    line-height: 1.4;
+    -webkit-scroll-behavior: smooth;
+    scroll-behavior: smooth;
+    scroll-snap-type: mandatory;
+    overflow-y: hidden;
+    /* background: url('../img/curve-bg.svg') no-repeat; */
+    background-size: cover;
+    color:#fff;
+    background-color: #000;
+
+}
+
+
+body.true {
+    overflow-y: scroll;
+}
+
+body {
+    font-family: 'Open Sans',sans-serif;
+    line-height: 1.4;
+    -webkit-scroll-behavior: smooth;
+    scroll-behavior: smooth;
+    scroll-snap-type: mandatory;
+    overflow-y: hidden;
+    /* background: url('../img/curve-bg.svg') no-repeat; */
+    background-size: cover;
+    color:#fff;
+    background-color: #000;
+
+}
+
+body.true {
+    overflow-y: scroll;
+}
+
+
+
+.fab {
+    font-size: 22px
+}
+
+a.fab {
+    text-decoration: none;
+    color: var(--light);
+    padding: 0px 10px;
+    transition: 0.5s;
+}
+
+a.fab:hover {
+    color: var(--pry);
+}
+

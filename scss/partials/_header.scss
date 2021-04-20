@@ -1,0 +1,112 @@
+@import "./varables";
+
+
+
+.top-header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    z-index: 14;
+    background: rgba(0, 0, 0, 0.705);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: 0.7s;
+}
+
+
+
+.top-header .nav-links {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(5, 100px);
+    grid-gap: 10px;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.top-header .nav-links .logo-middle {
+    width: 100px;
+}
+
+.hamburger {
+    /* margin: 0 15px; */
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    background: inherit;
+    border-radius: 100px;
+    box-shadow: 0 0 30px rgba(128, 128, 128, 0.13);
+}
+
+
+
+.hamburger > div {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 4px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.hamburger > div:nth-child(odd) {
+    width: 20px;
+}
+
+.top-header .nav-links .link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.top-header .nav-links .link.active {
+    color: var(--pry);
+}
+
+.top-header .nav-links .link-icon {
+    display: none;
+}
+
+.top-header .nav-links .link:hover:not(.active) {
+    letter-spacing: 3px;
+}
+
+
+.nav-bar-mobile {
+    display: none;
+    justify-content: space-between;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    height: 70px;
+    padding: 10px 0;
+
+}
+
+.nav-bar-mobile .logo {
+    width: 50px;
+    margin: 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

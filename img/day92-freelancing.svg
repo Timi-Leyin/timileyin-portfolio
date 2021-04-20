@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="477px" height="691px" viewbox="0 0 477 691" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <style>
+#text{
+  <!-- display:none; -->
+}
+</style>
+  <g id="day92-freelancing" transform="translate(3 3)">
+    <g id="XMLID_1207_" transform="translate(0 3.0517578E-05)">
+      <path d="M0 47.3C0 21.1769 105.258 0 235.1 0C364.942 0 470.2 21.1769 470.2 47.3C470.2 73.4231 364.942 94.6 235.1 94.6C105.258 94.6 0 73.4231 0 47.3Z" transform="translate(0 468.00876)" id="XMLID_1193_" fill="#00C57C" fill-rule="evenodd" stroke="none" />
+      <g id="XMLID_43_" transform="translate(120.595 471.90878)">
+        <path d="M1.80499 35.8C5.10498 25.1 15.205 19.4 31.605 14.6C42.005 11.6 55.205 10.2 75.905 6C86.005 4 93.105 0 93.105 0L93.105 11.5C93.105 11.5 24.605 25 13.905 42.7C8.70496 51.4 10.305 72.7 34.805 74.9C27.305 76 15.005 74.1 8.40497 67.4C0.204987 59.1 -1.995 48 1.80499 35.8L1.80499 35.8Z" id="XMLID_1211_" fill="#282323" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M82.0169 0C82.0169 0 41.0169 7.59998 19.1169 17C-0.0830688 25.3 0.516937 33.9 0.0169373 42.7C-0.283051 47.8 3.31693 60.4 17.9169 62.6C35.3169 65.2 55.8169 62.4 82.0169 45.7C82.0169 4.79999 82.0169 0 82.0169 0L82.0169 0Z" transform="translate(11.088043 11.5)" id="XMLID_1210_" fill="#442C2A" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0169067 20.9C0.416901 13.8 0.116913 6.80005 10.1169 0C9.71692 2.5 9.61691 4.90002 9.51691 7.40002C9.21692 12.5 21.5169 5.90002 36.1169 8C51.3169 10.3 60.3169 27.7 82.0169 16C82.0169 18.5 82.0169 21.1 82.0169 23.8C55.8169 40.5 35.3169 43.2 17.9169 40.7C3.31693 38.6 -0.283081 25.9 0.0169067 20.9L0.0169067 20.9Z" transform="translate(11.088074 33.299927)" id="XMLID_53_" fill="#442C2A" fill-opacity="0.37" fill-rule="evenodd" stroke="none" />
+        <path d="M82.0169 0C82.0169 0 41.0169 7.59998 19.1169 17C-0.0830688 25.3 0.516937 33.9 0.0169373 42.7C-0.283051 47.8 3.31693 60.4 17.9169 62.6C35.3169 65.2 55.8169 62.4 82.0169 45.7C82.0169 4.79999 82.0169 0 82.0169 0L82.0169 0Z" transform="translate(11.088043 11.5)" id="XMLID_47_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1.82568 0C-1.4743 1.79999 -0.674316 19.3 7.32568 21.7" transform="translate(53.279297 35)" id="XMLID_46_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1.55243 0C-1.84756 4.79999 0.552429 16.1 6.65244 18.9" transform="translate(66.05255 33.69995)" id="XMLID_45_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1.55243 0C-1.84756 4.79999 0.552429 16.1 6.65244 18.9" transform="translate(77.55255 29.699951)" id="XMLID_44_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M195.3 104.6C173.7 119.6 143 128.2 110.9 128.2C78.9 128.2 48.1 119.6 26.5 104.6C16.6 97.7 0 83.3 0 64.1C0 44.9 16.6 30.5 26.5 23.6C48.1 8.59998 78.8 0 110.9 0C142.9 0 173.7 8.59998 195.3 23.6C205.2 30.5 221.8 44.9 221.8 64.1C221.8 83.3 205.2 97.7 195.3 104.6L195.3 104.6Z" transform="translate(122.399994 345.20877)" id="XMLID_77_" fill="#151E28" fill-rule="evenodd" stroke="none" />
+      <path d="M365.44 31.2276C365.04 33.2276 364.64 35.1276 364.04 37.1276C348.44 94.0276 273.24 137.228 182.74 137.228C92.04 137.228 16.64 93.8276 1.34 36.7276C0.940002 35.1276 0.540009 33.5276 0.23999 31.9276C-0.160004 28.9276 -0.0599976 25.9276 0.539978 22.9276C4.23999 6.12762 24.64 -3.57239 46.14 1.2276C60.24 4.32758 71.24 13.0276 76.14 23.3276C76.64 25.5276 77.44 27.7276 78.34 29.8276C83.54 41.8276 93.94 50.8276 100.94 55.8276C121.84 70.8276 151.74 79.4276 182.74 79.4276C213.84 79.4276 243.64 70.8276 264.54 55.8276C271.64 50.7276 282.14 41.6276 287.24 29.6276C288.04 27.7275 288.74 25.6276 289.24 23.6276C294.04 13.2275 305.14 4.52759 319.34 1.32758C340.84 -3.47241 361.24 6.32758 364.94 23.0276C365.64 25.6276 365.74 28.4276 365.44 31.2276L365.44 31.2276Z" transform="translate(51.160004 394.08115)" id="XMLID_76_" fill="#2A3749" fill-rule="evenodd" stroke="none" />
+      <path d="M364.955 1.40002C364.855 0.900024 364.755 0.5 364.555 0C364.255 1.59998 363.855 3.29999 363.355 4.90002C347.955 61.8 272.655 105 182.255 105C91.5546 105 16.1546 61.6 0.854645 4.5C0.654633 3.90002 0.554657 3.29999 0.354645 2.59998C-0.0453491 5.19995 -0.145355 7.79999 0.254639 10.3C0.554626 11.9 0.954651 13.5 1.35464 15.1C16.6546 72.2 92.0546 115.6 182.755 115.6C273.255 115.6 348.455 72.4 364.055 15.5C364.555 13.6 365.055 11.6 365.455 9.59998C365.755 7 365.655 4.20001 364.955 1.40002L364.955 1.40002Z" transform="translate(51.145355 415.50876)" id="XMLID_1209_" fill="#151E28" fill-opacity="0.67" fill-rule="evenodd" stroke="none" />
+      <path d="M365.44 31.2276C365.04 33.2276 364.64 35.1276 364.04 37.1276C348.44 94.0276 273.24 137.228 182.74 137.228C92.04 137.228 16.64 93.8276 1.34 36.7276C0.940002 35.1276 0.540009 33.5276 0.23999 31.9276C-0.160004 28.9276 -0.0599976 25.9276 0.539978 22.9276C4.23999 6.12762 24.64 -3.57239 46.14 1.2276C60.24 4.32758 71.24 13.0276 76.14 23.3276C76.64 25.5276 77.44 27.7276 78.34 29.8276C83.54 41.8276 93.94 50.8276 100.94 55.8276C121.84 70.8276 151.74 79.4276 182.74 79.4276C213.84 79.4276 243.64 70.8276 264.54 55.8276C271.64 50.7276 282.14 41.6276 287.24 29.6276C288.04 27.7275 288.74 25.6276 289.24 23.6276C294.04 13.2275 305.14 4.52759 319.34 1.32758C340.84 -3.47241 361.24 6.32758 364.94 23.0276C365.64 25.6276 365.74 28.4276 365.44 31.2276L365.44 31.2276Z" transform="translate(51.160004 394.08115)" id="XMLID_56_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 30.6C0 13.7001 40.3391 0 90.1 0C139.861 0 180.2 13.7001 180.2 30.6C180.2 47.4999 139.861 61.2 90.1 61.2C40.3391 61.2 0 47.4999 0 30.6Z" transform="translate(145 381.70877)" id="XMLID_75_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+      <path d="M0 30.6C0 13.7001 40.3391 0 90.1 0C139.861 0 180.2 13.7001 180.2 30.6C180.2 47.4999 139.861 61.2 90.1 61.2C40.3391 61.2 0 47.4999 0 30.6Z" transform="translate(145 381.70877)" id="XMLID_31_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="XMLID_89_" transform="translate(103.6864 205.60873)">
+        <path d="M234.014 139.9L26.4136 139.9C10.5136 139.9 -1.78641 126 0.213593 110.2L9.4136 36.7C12.0136 15.7 29.8136 0 51.0136 0L209.614 0C230.714 0 248.514 15.7 251.214 36.7L260.414 110.2C262.214 126 249.914 139.9 234.014 139.9L234.014 139.9Z" id="XMLID_69_" fill="#F1534D" fill-rule="evenodd" stroke="none" />
+        <path d="M234.014 139.9L26.4136 139.9C10.5136 139.9 -1.78641 126 0.213593 110.2L9.4136 36.7C12.0136 15.7 29.8136 0 51.0136 0L209.614 0C230.714 0 248.514 15.7 251.214 36.7L260.414 110.2C262.214 126 249.914 139.9 234.014 139.9L234.014 139.9Z" id="XMLID_24_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="XMLID_1191_" transform="translate(46.913605 62.100037)">
+          <path d="M2 0L0 25.1" id="XMLID_1189_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M0 0L2 25.1" transform="translate(166.09998 0)" id="XMLID_1192_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+      <g id="XMLID_1194_" transform="translate(103.58615 203.80875)">
+        <path d="M234.014 139.9L26.4136 139.9C10.5136 139.9 -1.78641 126 0.213593 110.2L9.4136 36.7C12.0136 15.7 29.8136 0 51.0136 0L209.614 0C230.714 0 248.514 15.7 251.214 36.7L260.414 110.2C262.214 126 249.914 139.9 234.014 139.9L234.014 139.9Z" transform="translate(0.100250244 1.7999878)" id="XMLID_1202_" fill="#F1534D" fill-rule="evenodd" stroke="none" />
+        <g id="XMLID_4_" opacity="0.24">
+          <path d="M9.41385 44.5C12.0139 23.5 29.8138 7.80002 51.0139 7.80002L209.614 7.80002C230.714 7.80002 248.514 23.5 251.214 44.5L260.314 117.4C260.614 115.1 260.714 112.7 260.414 110.2L251.214 36.7C248.614 15.7 230.814 0 209.614 0L51.0139 0C29.9139 0 12.1139 15.7 9.41385 36.7L0.213837 110.2C-0.0861511 112.6 -0.0861511 115 0.313843 117.4L9.41385 44.5L9.41385 44.5Z" transform="translate(0 1.7999878)" id="XMLID_1208_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+          <path d="M0.0902405 9.60001C0.0902405 9.60001 12.3902 11.8 13.3902 18.6C14.1902 24.1 14.0902 27.7 16.1902 29.9C18.2902 32.1 23.1902 36.6 33.0902 36.6C27.5902 31.1 27.4902 11.8 25.9902 11.8C24.5902 11.8 20.9902 2.20001 20.9902 2.20001L16.1902 0C16.2903 0 -1.40976 2.20001 0.0902405 9.60001L0.0902405 9.60001Z" transform="translate(60.123596 0)" id="XMLID_8_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+          <path d="M33 9.60001C33 9.60001 20.7 11.8 19.7 18.6C18.9 24.1 19 27.7 16.9 29.9C14.8 32 9.90002 36.6 0 36.6C5.5 31.1 5.59998 11.8 7.09998 11.8C8.5 11.8 12.1 2.20001 12.1 2.20001L16.9 0C16.8 0 34.5 2.20001 33 9.60001L33 9.60001Z" transform="translate(158.61383 0)" id="XMLID_10_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+        </g>
+        <path d="M234.014 139.9L26.4136 139.9C10.5136 139.9 -1.78641 126 0.213593 110.2L9.4136 36.7C12.0136 15.7 29.8136 0 51.0136 0L209.614 0C230.714 0 248.514 15.7 251.214 36.7L260.414 110.2C262.214 126 249.914 139.9 234.014 139.9L234.014 139.9Z" transform="translate(0.100250244 1.7999878)" id="XMLID_1201_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="XMLID_1195_" transform="translate(47.013855 63.900024)">
+          <path d="M2 0L0 25.1" id="XMLID_1199_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M0 0L2 25.1" transform="translate(166.09998 0)" id="XMLID_1196_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+      <g id="XMLID_78_" transform="translate(135.6 151.00879)">
+        <path d="M58.6 1.70001L25.7 0L10.3 1.70001C10.3 1.70001 0 9.40002 0 11.5C0 13.6 1 30.7 1 30.7C1 30.7 25.3 34 27.9 36.5C30.5 39 45.9 53.4 45.9 53.4L60.8 47.6L68.6 26.8L58.6 1.70001L58.6 1.70001Z" transform="translate(13 11.099945)" id="XMLID_80_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+        <path d="M65.8 0L27.8 0C12.5 0 0 12.4 0 27.8L0 27.8C0 43.1 12.4 55.6 27.8 55.6L32.8 55.6C40.9 55.6 47.4 62.1 47.4 70.2L47.4 71.7C47.4 81.4 55.3 89.3 65 89.3L65 89.3C65 89.3 65 71.3 65 71.3C65.2 71.3 65.4 71.5 65.4 71.7L65.4 70.2C65.4 52.2 50.8 37.6 32.8 37.6L27.8 37.6C22.4 37.6 18 33.2 18 27.8C18 22.4 22.4 18 27.8 18L65.8 18L65.8 0L65.8 0Z" transform="translate(0 0.099975586)" id="XMLID_72_" fill="#F1534D" fill-rule="evenodd" stroke="none" />
+        <path d="M63.4 59C58.8 46.6 46.8 37.6 32.8 37.6L27.8 37.6C22.4 37.6 18 33.2 18 27.8C18 22.4 22.4 18 27.8 18L65.8 18L65.8 0L27.8 0C12.5 0 0 12.4 0 27.8L0 27.8C0 43.1 12.4 55.6 27.8 55.6L32.8 55.6C40.9 55.6 47.4 62.1 47.4 70.2L47.4 71.7C47.4 81.4 55.3 89.3 65 89.3" transform="translate(0.1000061 0)" id="XMLID_81_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <g id="XMLID_28_" transform="translate(240.69998 151.00879)">
+        <path d="M9.99997 1.70001L42.9 0L58.3 1.70001C58.3 1.70001 68.6 9.40002 68.6 11.5C68.6 13.6 67.6 30.7 67.6 30.7C67.6 30.7 43.3 34 40.7 36.5C38.1 39.1 22.7 53.4 22.7 53.4L7.79999 47.6L0 26.8L9.99997 1.70001L9.99997 1.70001Z" transform="translate(0 11.099945)" id="XMLID_82_" fill="#9B2121" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L38 0C53.3 0 65.8 12.4 65.8 27.8L65.8 27.8C65.8 43.1 53.4 55.6 38 55.6L33 55.6C24.9 55.6 18.4 62.1 18.4 70.2L18.4 71.7C18.4 81.4 10.5 89.3 0.800049 89.3L0.800049 89.3C0.800049 89.3 0.800049 71.3 0.800049 71.3C0.600037 71.3 0.400024 71.5 0.400024 71.7L0.400024 70.2C0.400024 52.2 15 37.6 33 37.6L38 37.6C43.4 37.6 47.8 33.2 47.8 27.8C47.8 22.4 43.4 18 38 18L0 18L0 0L0 0Z" transform="translate(15.799927 0.099975586)" id="XMLID_79_" fill="#F1534D" fill-rule="evenodd" stroke="none" />
+        <path d="M2.40002 59C7 46.6 19 37.6 33 37.6L38 37.6C43.4 37.6 47.8 33.2 47.8 27.8C47.8 22.4 43.4 18 38 18L0 18L0 0L38 0C53.3 0 65.8 12.4 65.8 27.8L65.8 27.8C65.8 43.1 53.4 55.6 38 55.6L33 55.6C24.9 55.6 18.4 62.1 18.4 70.2L18.4 71.7C18.4 81.4 10.5 89.3 0.800049 89.3" transform="translate(15.799927 0)" id="XMLID_71_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M0 39C0 17.4609 17.4609 0 39 0C60.5391 0 78 17.4609 78 39C78 60.5391 60.5391 78 39 78C17.4609 78 0 60.5391 0 39Z" transform="translate(191.79999 148.20877)" id="XMLID_74_" fill="#F46262" fill-rule="evenodd" stroke="none" />
+      <path d="M0 27.6C10.8 34.5 23.6 38.6 37.3 38.6C51 38.6 63.8 34.6 74.6 27.6C69.7 11.6 54.9 0 37.3 0C19.8 0.100006 4.89999 11.7 0 27.6L0 27.6Z" transform="translate(193.5 148.10876)" id="XMLID_2426_" fill="#F1534D" fill-rule="evenodd" stroke="none" />
+      <path d="M0 39C0 17.4609 17.4609 0 39 0C60.5391 0 78 17.4609 78 39C78 60.5391 60.5391 78 39 78C17.4609 78 0 60.5391 0 39Z" transform="translate(191.79999 148.20877)" id="XMLID_23_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M23 46L23 46C10.3 46 0 35.7 0 23L0 5.79999C0 2.59998 2.60001 0 5.79999 0L40.3 0C43.5 0 46.1 2.60001 46.1 5.79999L46.1 23C46 35.7 35.7 46 23 46L23 46Z" transform="translate(207.79999 163.80875)" id="XMLID_70_" fill="#FFC897" fill-rule="evenodd" stroke="none" />
+      <path d="M40.3 0L5.79999 0C2.59998 0 0 2.79999 0 6.20001L0 20.3C7.20001 23 14.9 24.5 23 24.5C31.1 24.5 38.8 23 46 20.3L46 6.20001C46 2.80002 43.4 0 40.3 0L40.3 0Z" transform="translate(207.80002 163.80875)" id="XMLID_2425_" fill="#E5A973" fill-rule="evenodd" stroke="none" />
+      <path d="M23 46L23 46C10.3 46 0 35.7 0 23L0 5.79999C0 2.59998 2.60001 0 5.79999 0L40.3 0C43.5 0 46.1 2.60001 46.1 5.79999L46.1 23C46 35.7 35.7 46 23 46L23 46Z" transform="translate(207.79999 163.80875)" id="XMLID_15_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L21.4 0L21.4 68.3L0 68.3L0 0Z" transform="translate(234.29996 468.90878)" id="XMLID_30_" fill="#607691" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L21.4 0L21.4 68.3L0 68.3L0 0Z" transform="translate(234.29996 468.90878)" id="XMLID_33_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2.20001 6.5C1.30002 4.40002 0.600006 2.29999 0 0C1.10001 2.20001 1.80002 4.29999 2.20001 6.5L2.20001 6.5Z" transform="translate(127.19998 417.20877)" id="XMLID_54_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 6C0.400024 3.90002 1.09998 1.90002 2 0C1.5 2.09998 0.800049 4.09998 0 6L0 6Z" transform="translate(338.49997 417.50876)" id="XMLID_51_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="XMLID_88_" transform="translate(101.88449 287.20874)">
+        <path d="M236.316 131.4L27.8155 131.4C20.4155 131.4 14.1155 125.9 13.1155 118.5L0.115479 16.7C-0.984528 7.90002 5.91547 0 14.8155 0L249.315 0C258.216 0 265.115 7.79999 264.016 16.7L251.016 118.5C250.016 125.8 243.716 131.4 236.316 131.4L236.316 131.4Z" transform="translate(0 0.1000061)" id="XMLID_73_" fill="#B5B5B5" fill-rule="evenodd" stroke="none" />
+        <path d="M250.904 100.3C250.004 107.7 243.704 113.2 236.204 113.2L27.804 113.2C20.4041 113.2 14.104 107.7 13.104 100.3L0.304047 0C0.00405884 1.60001 -0.0959473 3.20001 0.104034 4.89999L13.104 106.7C14.004 114.1 20.304 119.6 27.804 119.6L236.304 119.6C243.704 119.6 250.004 114.1 251.004 106.7L264.004 4.90002C264.204 3.20001 264.104 1.60004 263.804 3.05176e-05L250.904 100.3L250.904 100.3Z" transform="translate(0.011444092 11.900055)" id="XMLID_1188_" fill="#7E7E7E" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+        <path d="M0.215485 17.7C1.4155 10.9 7.4155 5.5 14.7155 5.5L249.215 5.5C256.616 5.5 262.515 10.8 263.715 17.7L263.815 16.7C264.915 7.90002 258.015 0 249.115 0L14.8155 0C5.91547 0 -0.984528 7.79999 0.115448 16.7L0.215485 17.7L0.215485 17.7Z" transform="translate(3.0517578E-05 0)" id="XMLID_91_" fill="#7E7E7E" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+        <path d="M236.316 131.4L27.8155 131.4C20.4155 131.4 14.1155 125.9 13.1155 118.5L0.115479 16.7C-0.984528 7.90002 5.91547 0 14.8155 0L249.315 0C258.216 0 265.115 7.79999 264.016 16.7L251.016 118.5C250.016 125.8 243.716 131.4 236.316 131.4L236.316 131.4Z" transform="translate(0 0.1000061)" id="XMLID_29_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M23.7 9.20001C19.2 9.20001 15.6 5.60004 15.6 1.10004C15.6 0.800049 15.6 0.500061 15.7 0.200012C14.9 0.100037 14.1 0 13.3 0C6 0 0 6 0 13.3C0 20.6 6 26.6 13.3 26.6C20.6 26.6 26.6 20.6 26.6 13.3C26.6 11.8 26.3 10.3 25.9 8.89996C25.2 9 24.5 9.20001 23.7 9.20001L23.7 9.20001Z" transform="translate(118.215515 50.399994)" id="XMLID_1190_" fill="#B5B5B5" fill-opacity="0.66" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="XMLID_39_" transform="translate(255.69998 471.90878)">
+        <path d="M91.3 35.8C88 25.1 77.9 19.4 61.5 14.6C51.1 11.6 37.9 10.2 17.2 6C7.10004 4 0 0 0 0L0 11.5C0 11.5 68.5 25 79.2 42.7C84.4 51.4 82.8 72.7 58.3 74.9C65.8 76 78.1 74.1 84.7 67.4C92.9 59.1 95.1 48 91.3 35.8L91.3 35.8Z" id="XMLID_36_" fill="#282323" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0 0C0 0 41 7.59998 62.9 17C82.1 25.3 81.5 33.9 82 42.7C82.3 47.8 78.7 60.4 64.1 62.6C46.6999 65.2 26.2 62.4 0 45.7C0 4.79999 0 0 0 0L0 0Z" transform="translate(0 11.5)" id="XMLID_52_" fill="#442C2A" fill-rule="evenodd" stroke="none" />
+        <path d="M82 20.9C81.6 13.8 81.9 6.80005 71.9 0C72.3 2.5 72.4 4.90002 72.5 7.40002C72.8 12.5 69.2 25.1 54.6 27.3C39.4 29.6 21.7 27.7001 0 16.0001C0 18.5001 0 21.1 0 23.8C26.2 40.5001 46.7 43.2001 64.1 40.7001C78.8 38.6 82.3 25.9 82 20.9L82 20.9Z" transform="translate(0 33.299927)" id="XMLID_1212_" fill="#442C2A" fill-opacity="0.37" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0C0 0 41 7.59998 62.9 17C82.1 25.3 81.5 33.9 82 42.7C82.3 47.8 78.7 60.4 64.1 62.6C46.6999 65.2 26.2 62.4 0 45.7C0 4.79999 0 0 0 0L0 0Z" transform="translate(0 11.5)" id="XMLID_34_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M5.5 0C8.79999 1.79999 8 19.3 0 21.7" transform="translate(32.5 35)" id="XMLID_37_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M5.09998 0C8.5 4.79999 6.09998 16.1 0 18.9" transform="translate(20.400024 33.69995)" id="XMLID_38_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M5.09998 0C8.5 4.79999 6.09998 16.1 0 18.9" transform="translate(8.900024 29.699951)" id="XMLID_40_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M1 0L1 53.2" transform="translate(194.69998 230.20877)" id="XMLID_83_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M1 0L1 37.5" transform="translate(262.19998 230.20877)" id="XMLID_84_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 8.3C0 3.71604 3.71604 0 8.3 0C12.884 0 16.6 3.71604 16.6 8.3C16.6 12.884 12.884 16.6 8.3 16.6C3.71604 16.6 0 12.884 0 8.3Z" transform="translate(254.9 262.40878)" id="XMLID_27_" fill="#000000" fill-rule="evenodd" stroke="none" />
+      <path d="M0 3.4C0 1.52223 1.52223 0 3.4 0C5.27777 0 6.8 1.52223 6.8 3.4C6.8 5.27777 5.27777 6.8 3.4 6.8C1.52223 6.8 0 5.27777 0 3.4Z" transform="translate(259.79996 266.30878)" id="XMLID_86_" fill="#7E7E7E" fill-rule="evenodd" stroke="none" />
+      <g id="XMLID_41_" transform="translate(155.1987 0)">
+        <path d="M63.1 136.3L63.1 136.3C28.3 136.3 0 108.1 0 73.2L0 0L126.2 0L126.2 73.2C126.2 108 98 136.3 63.1 136.3L63.1 136.3Z" transform="translate(12.501282 44.408768)" id="XMLID_5_" fill="#FFC897" fill-rule="evenodd" stroke="none" />
+        <path d="M63.1 63.1L63.1 63.1C28.3 63.1 0 34.9 0 0L0 8.70001C0 43.5 28.2 71.8 63.1 71.8L63.1 71.8C97.9 71.8 126.2 43.6 126.2 8.70001L126.2 0C126.2 34.8 98 63.1 63.1 63.1L63.1 63.1Z" transform="translate(12.501282 108.90875)" id="XMLID_1198_" fill="#E5A973" fill-rule="evenodd" stroke="none" />
+        <path d="M63.1 136.3L63.1 136.3C28.3 136.3 0 108.1 0 73.2L0 0L126.2 0L126.2 73.2C126.2 108 98 136.3 63.1 136.3L63.1 136.3Z" transform="translate(12.501282 44.408768)" id="XMLID_2424_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M127.4 12.3C127.2 8.90001 127 5.40001 126.9 2C84.9 4 42.7 3.7 0.799988 0C0.5 3.89999 0.299988 7.8 0 11.7C1.89999 13.4 3.89999 15.2 5.79999 16.9C7.39999 17.7 9.5 18.8 11.4 19.8C19.8 24.2 31.5 29.8 42.7 32C46.8 32.8 51.1 33.2 55.5 33.1C74.4 32.9 90.3 25.4 97 22.3C98 21.8 98.8 21.4 99.3 21.3C99.7 21.1 100.1 21 100.7 21C101.9 21 103.3 21.3 105 21.6001C107.2 22.1001 109.8 22.6001 112.7 22.4C116 22.2 119 21.2 121.9 19.3C123.6 16.9 125.5 14.6 127.4 12.3L127.4 12.3Z" transform="translate(11.8013 39.408768)" id="XMLID_1197_" fill="#E5A973" fill-rule="evenodd" stroke="none" />
+        <path d="M103.2 13.7088C103.2 13.7088 52.7 -19.5912 10.9 17.6087C3.10001 24.5087 0 34.4088 0 43.5087L0 91.7087L7 91.7087L7 56.7087C7 54.1087 8.79999 52.1087 11 52.1087L11 52.1087C14.6 52.1087 34.1 62.5087 50.6 65.4087C75.5 69.7087 98.2 58.2087 103.1 56.5087C111.5 53.5087 118.3 63.9087 128.9 52.2087L129.3 52.2087C131.5 52.2087 133.3 54.3087 133.3 56.8088L133.3 91.8087L140.3 91.8087L140.3 43.8087C140.1 32.0088 126.5 2.40875 103.2 13.7088L103.2 13.7088Z" transform="translate(5.601288 0)" id="XMLID_68_" fill="#231A17" fill-rule="evenodd" stroke="none" />
+        <g id="XMLID_2783_" transform="translate(5.5012817 85.108765)" opacity="0.34">
+          <path d="M0 0L7 0L7 6.6L0 6.6L0 0Z" id="XMLID_2784_" fill="#231A17" fill-rule="evenodd" stroke="none" />
+          <path d="M0 0L7 0L7 6.6L0 6.6L0 0Z" transform="translate(133.20001 0)" id="XMLID_2785_" fill="#231A17" fill-rule="evenodd" stroke="none" />
+        </g>
+        <path d="M103.2 13.7088C103.2 13.7088 52.7 -19.5912 10.9 17.6087C3.10001 24.5087 0 34.4088 0 43.5087L0 91.7087L7 91.7087L7 56.7087C7 54.1087 8.79999 52.1087 11 52.1087L11 52.1087C14.6 52.1087 34.1 62.5087 50.6 65.4087C75.5 69.7087 98.2 58.2087 103.1 56.5087C111.5 53.5087 118.3 63.9087 128.9 52.2087L129.3 52.2087C131.5 52.2087 133.3 54.3087 133.3 56.8088L133.3 91.8087L140.3 91.8087L140.3 43.8087C140.1 32.0088 126.5 2.40875 103.2 13.7088L103.2 13.7088Z" transform="translate(5.601288 0)" id="XMLID_3_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M65.7 25.3C65.7 25.3 11.5 28.8 0 0" transform="translate(0.40130615 20.908752)" id="XMLID_6_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M65.8 32.1C65.8 32.1 13.6 28.8 0 0" transform="translate(8.001282 7.2087708)" id="XMLID_9_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0 0L0 32.8C7 32.8 12.6 25.5 12.6 16.4L12.6 16.4C12.6 7.30002 7 0 0 0L0 0Z" transform="translate(138.7013 83.90875)" id="XMLID_85_" fill="#FFC897" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L0 29.1C4.09998 26.4 6.90002 20.9 6.90002 14.5L6.90002 14.5C6.90002 8.19998 4.09998 2.69998 0 0L0 0Z" transform="translate(138.7013 85.70877)" id="XMLID_1205_" fill="#E5A973" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L0 32.8C7 32.8 12.6 25.5 12.6 16.4L12.6 16.4C12.6 7.30002 7 0 0 0L0 0Z" transform="translate(138.7013 83.90875)" id="XMLID_12_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M12.6013 0L12.6013 32.8C5.60129 32.8 0.00128174 25.5 0.00128174 16.4L0.00128174 16.4C-0.0986938 7.30002 5.60129 0 12.6013 0L12.6013 0Z" transform="translate(0 83.90875)" id="XMLID_87_" fill="#FFC897" fill-rule="evenodd" stroke="none" />
+        <path d="M6.10001 0C2.5 2.89999 0 8.10001 0 14L0 14C0 19.9 2.39999 25.1 6.10001 28L6.10001 0L6.10001 0Z" transform="translate(6.5012817 86.30875)" id="XMLID_1203_" fill="#E5A973" fill-rule="evenodd" stroke="none" />
+        <path d="M12.6013 0L12.6013 32.8C5.60129 32.8 0.00128174 25.5 0.00128174 16.4L0.00128174 16.4C-0.0986938 7.30002 5.60129 0 12.6013 0L12.6013 0Z" transform="translate(0 83.90875)" id="XMLID_11_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M4.20001 0L0 13.7C0 15.2 4.89999 14 9.89999 15.2" transform="translate(68.80127 110.608765)" id="XMLID_7_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M22.4 0C23.9 10.4 10.5 19.6 0 17.7" transform="translate(74.201294 136.20877)" id="XMLID_16_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="XMLID_19_" transform="translate(38.401306 80.80875)">
+          <path d="M0 4.5C0 2.01472 1.8804 0 4.2 0C6.5196 0 8.4 2.01472 8.4 4.5C8.4 6.98528 6.5196 9 4.2 9C1.8804 9 0 6.98528 0 4.5Z" transform="translate(10.299988 9.200012)" id="XMLID_14_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M0 4.5C0 2.01472 1.8804 0 4.2 0C6.5196 0 8.4 2.01472 8.4 4.5C8.4 6.98528 6.5196 9 4.2 9C1.8804 9 0 6.98528 0 4.5Z" transform="translate(10.299988 9.200012)" id="XMLID_20_" fill="#000000" fill-rule="evenodd" stroke="none" />
+          <path d="M0 4.20001C2.10001 1.70001 7 0 12.8 0C17.4 0 21.4 1.10001 23.9 2.79999" id="XMLID_17_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <g id="XMLID_13_" transform="translate(89.50131 80.80875)">
+          <path d="M0 4.5C0 2.01472 1.8804 0 4.2 0C6.5196 0 8.4 2.01472 8.4 4.5C8.4 6.98528 6.5196 9 4.2 9C1.8804 9 0 6.98528 0 4.5Z" transform="translate(5.1999817 9.200012)" id="XMLID_22_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M0 4.5C0 2.01472 1.8804 0 4.2 0C6.5196 0 8.4 2.01472 8.4 4.5C8.4 6.98528 6.5196 9 4.2 9C1.8804 9 0 6.98528 0 4.5Z" transform="translate(5.1999817 9.200012)" id="XMLID_21_" fill="#000000" fill-rule="evenodd" stroke="none" />
+          <path d="M23.9 4.20001C21.8 1.70001 16.9 0 11.1 0C6.5 0 2.5 1.10001 0 2.79999" id="XMLID_18_" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+    <g id="XMLID_1_" transform="translate(61.399963 617.60876)" opacity="0.64">
+      <path d="M0 0L22.5 0L22.5 5.90002L7.29999 5.90002L7.29999 15.2L18.9 15.2L18.9 21L7.29999 21L7.29999 36.5L0 36.5L0 0L0 0Z" transform="translate(0 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M13.5999 0C22.3999 0 26.8 5.09998 26.8 11.2C26.8 15.6 24.3 20.1 18.5 21.7L27.2 36.5L18.7 36.5L10.7 22.3L7.29999 22.3L7.29999 36.5L0 36.5L0 0L13.5999 0L13.5999 0ZM13.3999 6.09998L7.29993 6.09998L7.29993 16.8L13.3999 16.8C17.4999 16.8 19.2999 14.7 19.2999 11.4C19.2999 8.09998 17.3999 6.09998 13.3999 6.09998L13.3999 6.09998Z" transform="translate(33.00006 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M21.2 5.90002L7.40002 5.90002L7.40002 15L19.7 15L19.7 20.8L7.40002 20.8L7.40002 30.5L21.2 30.5L21.2 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.2 5.90002Z" transform="translate(71.599976 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M21.2 5.90002L7.40002 5.90002L7.40002 15L19.7 15L19.7 20.8L7.40002 20.8L7.40002 30.5L21.2 30.5L21.2 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.2 5.90002Z" transform="translate(104.599976 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M7.29999 0L7.29999 30.7L19.3 30.7L19.3 36.5L0 36.5L0 0L7.29999 0L7.29999 0Z" transform="translate(137.70001 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M24.6 29.6L10.1 29.6L7.70001 36.5L0 36.5L13.1 0L21.6 0L34.7 36.5L27 36.5L24.6 29.6L24.6 29.6ZM17.4 8.5L12.1 23.8L22.7 23.8L17.4 8.5L17.4 8.5Z" transform="translate(164.6 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M31.2 0L31.2 36.5L23.9 36.5L7.30005 11.5L7.30005 36.5L0 36.5L0 0L7.29999 0L23.9 25.1L23.9 0L31.2 0L31.2 0Z" transform="translate(209.5 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M18.5 0C26.6 0 33.2 4.29999 35.6 11.8L27.2 11.8C25.4999 8.29999 22.2999 6.59998 18.4 6.59998C11.9999 6.59998 7.49994 11.2 7.49994 18.7C7.49994 26.1 11.9999 30.7999 18.4 30.7999C22.3 30.7999 25.4999 29.0999 27.2 25.4999L35.6 25.4999C33.1 32.9999 26.6 37.2999 18.5 37.2999C8 37.2999 0 29.5999 0 18.7C0 7.70001 8 0 18.5 0L18.5 0Z" transform="translate(251.29999 0)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M21.1 5.90002L7.29999 5.90002L7.29999 15L19.6 15L19.6 20.8L7.29999 20.8L7.29999 30.5L21.1 30.5L21.1 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.1 5.90002Z" transform="translate(298.5 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+      <path d="M13.7 0C22.5 0 26.9 5.09998 26.9 11.2C26.9 15.6 24.4 20.1 18.6 21.7L27.3 36.5L18.8 36.5L10.8 22.3L7.40002 22.3L7.40002 36.5L0 36.5L0 0L13.7 0L13.7 0ZM13.4 6.09998L7.30005 6.09998L7.30005 16.8L13.4 16.8C17.5 16.8 19.3 14.7 19.3 11.4C19.3 8.09998 17.5 6.09998 13.4 6.09998L13.4 6.09998Z" transform="translate(331.5 0.4000244)" id="Shape" fill="#68CCE9" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="text" transform="translate(61.399963 612.60876)">
+      <g id="Group" transform="translate(0 0.4000244)">
+        <path d="M0 0L22.5 0L22.5 5.90002L7.29999 5.90002L7.29999 15.2L18.9 15.2L18.9 21L7.29999 21L7.29999 36.5L0 36.5L0 0L0 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(33.00006 0.4000244)">
+        <path d="M13.5999 0C22.3999 0 26.8 5.09998 26.8 11.2C26.8 15.6 24.3 20.1 18.5 21.7L27.2 36.5L18.7 36.5L10.7 22.3L7.29999 22.3L7.29999 36.5L0 36.5L0 0L13.5999 0L13.5999 0ZM13.3999 6.09998L7.29993 6.09998L7.29993 16.8L13.3999 16.8C17.4999 16.8 19.2999 14.7 19.2999 11.4C19.2999 8.09998 17.3999 6.09998 13.3999 6.09998L13.3999 6.09998Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(71.599976 0.4000244)">
+        <path d="M21.2 5.90002L7.40002 5.90002L7.40002 15L19.7 15L19.7 20.8L7.40002 20.8L7.40002 30.5L21.2 30.5L21.2 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.2 5.90002Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(104.599976 0.4000244)">
+        <path d="M21.2 5.90002L7.40002 5.90002L7.40002 15L19.7 15L19.7 20.8L7.40002 20.8L7.40002 30.5L21.2 30.5L21.2 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.2 5.90002Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(137.70001 0.4000244)">
+        <path d="M7.29999 0L7.29999 30.7L19.3 30.7L19.3 36.5L0 36.5L0 0L7.29999 0L7.29999 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(164.6 0.4000244)">
+        <path d="M24.6 29.6L10.1 29.6L7.70001 36.5L0 36.5L13.1 0L21.6 0L34.7 36.5L27 36.5L24.6 29.6L24.6 29.6ZM17.4 8.5L12.1 23.8L22.7 23.8L17.4 8.5L17.4 8.5Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(209.5 0.4000244)">
+        <path d="M31.2 0L31.2 36.5L23.9 36.5L7.30005 11.5L7.30005 36.5L0 36.5L0 0L7.29999 0L23.9 25.1L23.9 0L31.2 0L31.2 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(251.29999 0)">
+        <path d="M18.5 0C26.6 0 33.2 4.29999 35.6 11.8L27.2 11.8C25.4999 8.29999 22.2999 6.59998 18.4 6.59998C11.9999 6.59998 7.49994 11.2 7.49994 18.7C7.49994 26.1 11.9999 30.7999 18.4 30.7999C22.3 30.7999 25.4999 29.0999 27.2 25.4999L35.6 25.4999C33.1 32.9999 26.6 37.2999 18.5 37.2999C8 37.2999 0 29.5999 0 18.7C0 7.70001 8 0 18.5 0L18.5 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(298.5 0.4000244)">
+        <path d="M21.1 5.90002L7.29999 5.90002L7.29999 15L19.6 15L19.6 20.8L7.29999 20.8L7.29999 30.5L21.1 30.5L21.1 36.5L0 36.5L0 0L21.2 0L21.2 5.90002L21.1 5.90002Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(331.5 0.4000244)">
+        <path d="M13.7 0C22.5 0 26.9 5.09998 26.9 11.2C26.9 15.6 24.4 20.1 18.6 21.7L27.3 36.5L18.8 36.5L10.8 22.3L7.40002 22.3L7.40002 36.5L0 36.5L0 0L13.7 0L13.7 0ZM13.4 6.09998L7.30005 6.09998L7.30005 16.8L13.4 16.8C17.5 16.8 19.3 14.7 19.3 11.4C19.3 8.09998 17.5 6.09998 13.4 6.09998L13.4 6.09998Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g id="text" transform="translate(60 669.3089)">
+      <g id="Group" transform="translate(0 0.19989014)">
+        <path d="M12.5 7.59998C12.5 12.3 9.5 15.1 4.5 15.1L0 15.1L0 0L4.5 0C9.5 0 12.5 2.79999 12.5 7.59998L12.5 7.59998ZM4.5 13.8C8.79999 13.8 11 11.4 11 7.5C11 3.59998 8.79999 1.20001 4.5 1.20001L1.5 1.20001L1.5 13.8L4.5 13.8L4.5 13.8Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(21.799988 0.19989014)">
+        <path d="M7.89999 1.20001L1.5 1.20001L1.5 6.79999L7.20001 6.79999L7.20001 8.09998L1.5 8.09998L1.5 13.8L7.89999 13.8L7.89999 15.1L0 15.1L0 0L7.89999 0L7.89999 1.20001L7.89999 1.20001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(38.599976 0.19989014)">
+        <path d="M5.10001 15.3C2.10001 15.3 0.100006 13.6 0 11.3L1.60001 11.3C1.70001 12.6 2.70001 14.1 5.10001 14.1C7.20001 14.1 8.39999 12.9 8.39999 11.3C8.39999 6.79999 0.100006 9.70001 0.100006 4C0.100006 1.70001 2 0 4.89999 0C7.79999 0 9.5 1.59998 9.79999 3.70001L8.19998 3.70001C7.99997 2.60004 6.99997 1.29999 4.89999 1.29999C3.10001 1.29999 1.69998 2.29999 1.69998 4C1.69998 8.40002 9.99997 5.70001 9.99997 11.3C10 13.2 8.30002 15.3 5.10001 15.3L5.10001 15.3Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(58 0.19989014)">
+        <path d="M0 0L1.5 0L1.5 15.1L0 15.1L0 0L0 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(68.70001 0.095703125)">
+        <path d="M14.4 4.50421L12.6 4.50421C11.8 2.60419 9.89999 1.3042 7.5 1.3042C4.10001 1.3042 1.60001 3.70422 1.60001 7.60419C1.60001 11.5042 4.20001 14.0042 7.5 14.0042C10.7 14.0042 13 11.9042 13.3 8.40424L6.89999 8.40424L6.89999 7.20422L14.9 7.20422L14.9 8.3042C14.7 12.3042 11.7 15.4042 7.5 15.4042C3.29999 15.4042 0 12.2042 0 7.70416C0 3.20416 3.20001 0.00415039 7.5 0.00415039C10.8 -0.0958252 13.3 1.60419 14.4 4.50421L14.4 4.50421Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(92.79999 0.19989014)">
+        <path d="M11.4 0L11.4 15.1L9.89999 15.1L1.5 2.39996L1.5 15.1L0 15.1L0 0L1.5 0L9.89999 12.7L9.89999 0L11.4 0L11.4 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(114.20001 0.19989014)">
+        <path d="M7.89999 1.20001L1.5 1.20001L1.5 6.79999L7.20001 6.79999L7.20001 8.09998L1.5 8.09998L1.5 13.8L7.89999 13.8L7.89999 15.1L0 15.1L0 0L7.89999 0L7.89999 1.20001L7.89999 1.20001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(131.6 0.19989014)">
+        <path d="M4.5 0C8 0 9.60001 1.90002 9.60001 4.40002C9.60001 6.5 8.39999 8.20001 5.89999 8.70001L9.79999 15.1L8 15.1L4.29999 8.80005L1.5 8.80005L1.5 15.1L0 15.1L0 0L4.5 0L4.5 0ZM4.5 1.29999L1.5 1.29999L1.5 7.59998L4.60001 7.59998C7.10001 7.59998 8.20001 6.29999 8.20001 4.39996C8.09998 2.5 7 1.29999 4.5 1.29999L4.5 1.29999Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(162.39993 0)">
+        <path d="M7.90006 3.29987C7.90006 1.89984 6.90005 1.19989 5.80005 1.19989C4.50006 1.19989 3.60004 1.99988 3.60004 3.19989C3.60004 4.19989 4.10004 4.99988 5.20004 6.09991L10.2 11.0999C10.5 10.6999 10.7 10.2999 11 9.79993L12.4 7.49994L14 7.49994L12.4 10.2999C12 10.9999 11.6 11.5999 11.2 12.0999L14.4 15.2999L12.4 15.2999L10.3 13.2C8.80002 14.7999 7.20001 15.6 5.10001 15.6C2 15.6 0 13.8 0 11C0 8.90002 1.20001 7.29999 3.60001 6.29999C2.60001 5.20001 2.20001 4.29999 2.20001 3.20001C2.20001 1.29999 3.70001 0 6 0C8.20001 0 9.70001 1.40002 9.60001 3.40002L7.90006 3.40002L7.90006 3.29987ZM9.20007 12.1999L4.40009 7.29987C2.30008 8.09985 1.40009 9.29987 1.40009 10.8998C1.40009 12.7999 2.90009 14.1998 5.00009 14.1998C6.70007 14.1999 8.00006 13.5999 9.20007 12.1999L9.20007 12.1999Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(197.6 0.19989014)">
+        <path d="M12.5 7.59998C12.5 12.3 9.5 15.1 4.5 15.1L0 15.1L0 0L4.5 0C9.5 0 12.5 2.79999 12.5 7.59998L12.5 7.59998ZM4.5 13.8C8.79999 13.8 11 11.4 11 7.5C11 3.59998 8.79999 1.20001 4.5 1.20001L1.5 1.20001L1.5 13.8L4.5 13.8L4.5 13.8Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(219.4 0.19989014)">
+        <path d="M7.90002 1.20001L1.5 1.20001L1.5 6.79999L7.20001 6.79999L7.20001 8.09998L1.5 8.09998L1.5 13.8L7.90002 13.8L7.90002 15.1L0 15.1L0 0L7.90002 0L7.90002 1.20001L7.90002 1.20001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(235.59995 0.19989014)">
+        <path d="M11.5001 0L13.1 0L7.40002 15.1L5.70001 15.1L0 0L1.59998 0L6.59998 13.5L11.5001 0L11.5001 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(257.49997 0.19989014)">
+        <path d="M7.90002 1.20001L1.5 1.20001L1.5 6.79999L7.20001 6.79999L7.20001 8.09998L1.5 8.09998L1.5 13.8L7.90002 13.8L7.90002 15.1L0 15.1L0 0L7.90002 0L7.90002 1.20001L7.90002 1.20001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(274.9 0.19989014)">
+        <path d="M1.5 0L1.5 13.9L6.90002 13.9L6.90002 15.1L0 15.1L0 0L1.5 0L1.5 0Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(289.80002 0.099853516)">
+        <path d="M7.5 15.4C3.29999 15.4 0 12.2 0 7.70001C0 3.20001 3.20001 0 7.5 0C11.8 0 15 3.20001 15 7.70001C15 12.2 11.7 15.4 7.5 15.4L7.5 15.4ZM7.5 14.0001C10.9 14.0001 13.4 11.6 13.4 7.60004C13.4 3.60004 10.8 1.20001 7.5 1.20001C4.09998 1.20001 1.59998 3.60004 1.59998 7.60004C1.5 11.6 4.09998 14.0001 7.5 14.0001L7.5 14.0001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(314.00003 0.19989014)">
+        <path d="M4.59998 8.70001L1.5 8.70001L1.5 15.1L0 15.1L0 0L4.59998 0C8.09998 0 9.69995 1.90002 9.69995 4.29999C9.69995 6.79999 8.09998 8.70001 4.59998 8.70001L4.59998 8.70001ZM4.59998 7.40002C7.19995 7.40002 8.09998 6.20001 8.09998 4.40002C8.09998 2.5 7.09998 1.30005 4.59998 1.30005L1.5 1.30005L1.5 7.40002L4.59998 7.40002L4.59998 7.40002Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(332.69998 0.19989014)">
+        <path d="M7.90002 1.20001L1.5 1.20001L1.5 6.79999L7.20001 6.79999L7.20001 8.09998L1.5 8.09998L1.5 13.8L7.90002 13.8L7.90002 15.1L0 15.1L0 0L7.90002 0L7.90002 1.20001L7.90002 1.20001Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(350.20004 0.19989014)">
+        <path d="M4.39996 0C7.89996 0 9.59998 1.90002 9.59998 4.40002C9.59998 6.5 8.39996 8.20001 5.89996 8.70001L9.79999 15.1L8 15.1L4.29999 8.80005L1.5 8.80005L1.5 15.1L0 15.1L0 0L4.39996 0L4.39996 0ZM4.39996 1.29999L1.39996 1.29999L1.39996 7.59998L4.49994 7.59998C6.99994 7.59998 8.09991 6.29999 8.09991 4.39996C7.99994 2.5 6.99994 1.29999 4.39996 1.29999L4.39996 1.29999Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
