@@ -2,11 +2,6 @@
 
 (function (window) {
     "use strict";
-
-    // if(window.location.pathname !=='index.html'){
-    //     window.location.href='https://google.com'
-    // }
-
     // declear varables
     const navBar = document.querySelector(".top-header");
     const hamburgerBtn = document.querySelector(".hamburger");
@@ -33,6 +28,7 @@
         img.addEventListener("dragstart", (e) => {
             e.preventDefault();
         });
+        img.style.userSelect='none'
     });
 
     // ?toggle menu bar when clicked for mobile versions only
@@ -49,8 +45,9 @@
     });
     // follow the cursor on mouse move
     window.onmousemove = function (e) {
-        cursor.style.top = e.clientY + "px";
-        cursor.style.left = e.clientX + "px";
+        cursor.style.top = e.clientY-15 + "px";
+        cursor.style.left = e.clientX-15 + "px";
+    //    alert( document.querySelector('.cursor:before'))
     };
 
     const scroll_guage = document.querySelector(".scroll-guage");
@@ -73,8 +70,10 @@
             document.documentElement.scrollTop > 300
         ) {
             hero.classList.add("active");
+            document.querySelector('.back-top-top').classList.add('active')
         } else {
             hero.classList.remove("active");
+            document.querySelector('.back-top-top').classList.remove('active')
         }
 
         //---
@@ -93,15 +92,7 @@
     };
     // scoll
     function scroller() {
-        // bg_Smooth.style=50+'%'
-        // console.log(window.pageYOffset-window.innerHeight/100+'px')
-        // if( bg_Smooth.style.top =='0px'){
-        //     bg_Smooth.style.top=0.02+'px'
-        // }
-        // if(bg_Smooth.style.top == '5px'){
-        //     bg_Smooth.style.top=0.024+'px'
 
-        // }
         const elmn = document.querySelectorAll(".scroller");
         for (let i = 0; i < elmn.length; i++) {
             const elmnOffset = elmn[i].getBoundingClientRect().top;

@@ -26,39 +26,37 @@
     justify-content: center;
 }
 
-.top-header .nav-links .logo-middle {
-    width: 100px;
-}
 
 .hamburger {
     /* margin: 0 15px; */
-    position: fixed;
+    position: absolute;
+    margin-top:10px;
     top: 10px;
     right: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 60px;
-    width: 60px;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+   height: 48px;
+    width: 48px;
+    border: 2px solid #eee;
     cursor: pointer;
     background: inherit;
-    border-radius: 100px;
-    box-shadow: 0 0 30px rgba(128, 128, 128, 0.13);
+    border-radius: 50%;
 }
 
 
 
-.hamburger > div {
+.hamburger-main-cont > div {
     width: 25px;
     height: 3px;
+    border-radius: 10px;
     background-color: #fff;
     margin: 4px;
     border-radius: 20px;
     transition: 0.5s;
 }
 
-.hamburger > div:nth-child(odd) {
+.hamburger-main-cont > div:nth-child(odd) {
     width: 20px;
 }
 

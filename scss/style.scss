@@ -7,21 +7,36 @@
 .cursor {
     position: fixed;
     top: -100%;
+    display: none !important;
     left: 12%;
     height: 30px;
     width: 30px;
-    background: #fff;
+    border:2px solid #fff;
+    background: transparent;
     border-radius: 100px;
     mix-blend-mode: difference;
     z-index: 999; 
     transition: 0.1s;
+
+    &::before{
+        content: '';
+        position: fixed;
+        // top: -100%;
+        // left: 12%;
+        height: 10px;
+        width:10px;
+        background:#fff;
+    border-radius: 10px
+;  }
 }
+
+
 
 .scroll-guage {
     background: var(--pry);
     position: fixed;
     top: 0px;
-    height: 7px;
+    height: 2px;
     left: 0;
     right: 0;
     width: 0px;
@@ -32,24 +47,6 @@
 
 .block{
     margin:3rem 0
-}
-
-.title {
-    margin: 20px 5%;
-    width: 50vw;
-    color: #fff;
-    font-size: 18px;
-    padding: 10px;
-    transition: 0.5s;
-    transform: translate(11%, 20px);
-    user-select: none;
-    letter-spacing: 3px;
-    perspective: 800px;
-
-}
-
-.title:hover {
-    transform: translate(11%, 20px) skew(-40deg);
 }
 
 

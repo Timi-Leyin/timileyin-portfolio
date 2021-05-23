@@ -5,6 +5,7 @@
     position: relative;
     padding: 20px 0;
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     color: #fff;
@@ -33,7 +34,15 @@
     font-size: 30px;
     font-weight: bolder;
 }
+.contact .further-contact{
+    padding: 5px 0;
 
+    a{
+        display: block;
+        font-size: 19px;
+        padding: 6px 0;
+    }
+}
 .contact .lt-info .sub {
     display: block;
     font-size: 25px;
@@ -47,13 +56,14 @@
 }
 
 .contact .socials{
-align-self: flex-end;
-margin: 20px ;
+// align-self: flex-end;
+margin:10px ;
 }
 .contact .socials .icons {
     display: flex;
     justify-content: space-between;
-    flex-direction: column;
+    flex-wrap: wrap;
+    // flex-direction: column;
     list-style: none;
 }
 

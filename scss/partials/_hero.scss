@@ -5,7 +5,7 @@
     position: relative;
     /* height: 90vh; */
     padding: 5% 0 ;
-    /*    background: url('../img/curve-bg.svg')*/
+
     transition: 0.6s ease-out;
     transform: translateY(0);
     opacity: 1;
@@ -27,14 +27,36 @@
     -webkit-text-fill-color: transparent;
     animation: linearAnimate 5s 0.2s linear infinite;
     background-size: 300% 100%;
-    // text-shadow:  0 0 0px var(--pry);
-
+          color: #fff;
+          mix-blend-mode: screen; 
+          &:hover{
+            animation-play-state: paused;
+  
+            }
 }
 
 
 .hero .mt {
     transform: translateY(-10px);
     font-size: 20px;
+    // height: 20px !important;
+    display: flex;
+    align-items: center;
+    mix-blend-mode: screen;
+    color: rgba(random(155) + 100, random(255) + 100, random(255), 1);
+    color:$pry;
+    opacity: .9;
+          animation: clip#{1} 3s ease-in-out infinite alternate;
+       &::after{
+           content:'_';
+           display: inline;
+           color:#fff;
+           opacity: 0;
+           animation: fade-in 0.7s infinite;
+           font-size: 20px !important;
+       }
+
+
 }
 
 .hero .tiny {

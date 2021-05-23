@@ -1,189 +1,115 @@
-/***********
-ONSCROLL ANIMATIONS
-************
-***********/ 
-
+/**
+ * ********
+ * ONSCROLL ANIMATIONS
+ * ***********
+ * *********
+ *
+ * @format
+ */
 
 /*Globals*/
 
 .scroller {
-    transition: 0.3s 0.3s;
-    opacity: 0;
+ transition: 0.3s 0.3s;
+ opacity: 0;
 }
-
 
 /********************/
 
 .fade-up {
-    opacity: 0;
-    transform: translateY(40px)
+ opacity: 0;
+ transform: translateY(40px);
 }
 
 .fade-up.active {
-    animation-name: fade-up;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-delay: 0.2s;
+ animation-name: fade-up;
+ animation-duration: 1s;
+ animation-fill-mode: forwards;
+ animation-delay: 0.2s;
 }
 
 @keyframes fade-up {
-    0% {}
+ 0% {
+ }
 
-    100% {
-        opacity: 1;
-        transform: translateY(0px);
-
-    }
+ 100% {
+  opacity: 1;
+  transform: translateY(0px);
+ }
 }
-
-
 
 /**********************/
 
 .fade-down {
-    opacity: 0;
-    transform: translateY(-40px)
+ opacity: 0;
+ transform: translateY(-40px);
 }
 
 .fade-down.active {
-    animation-name: fade-down;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-delay: 0.2s;
+ animation-name: fade-down;
+ animation-duration: 1s;
+ animation-fill-mode: forwards;
+ animation-delay: 0.2s;
 }
 
 @keyframes fade-down {
-    0% {}
+ 0% {
+ }
 
-    100% {
-        opacity: 1;
-        transform: translateY(0px);
-
-    }
+ 100% {
+  opacity: 1;
+  transform: translateY(0px);
+ }
 }
 
 /*************/
 
-
-
 /**********************/
-
-.write-l {
-    opacity: 0;
-    width: 0;
-    overflow: hidden;
-    animation-direction: 2s;
-    animation-timing-function: ease
-}
-
-.write-l.active {
-    animation-name: write-l;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-delay: 0.2s;
-}
-
-@keyframes write-l {
-    0% {}
-
-
-    100% {
-        opacity: 1;
-        width: 200px;
-    }
-
-
-}
-
-/*****************/
 
 
 /**********************/
 
 .fade-in {
-    opacity: 0;
-
+ opacity: 0;
 }
 
 .fade-in.active {
-    animation-name: fade-in;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-delay: 0.2s;
+ animation-name: fade-in;
+ animation-duration: 1s;
+ animation-fill-mode: forwards;
+ animation-delay: 0.2s;
 }
 
 @keyframes fade-in {
-    0% {}
+ 0% {
+ }
 
-
-    100% {
-        opacity: 1;
-    }
-
-
+ 100% {
+  opacity: 1;
+ }
 }
 
 /*****************/
 
-
-
-
-
-
 /***********
 **************
-*****'****/ 
-
-@keyframes spin{
-    0%{
-
-    }
-    100%{
-        transform: rotate(360deg);
-    }
-}
-@keyframes linearAnimate{
-    0% {
-        background-position: 0% 0%
-    }
-    20%, 60%{
-    background-size: 100% 300%
-    }
-    
-    80%, 100% {
-        background-position: 150% 300%
-    }
-}
+*****'****/
 
 
 @keyframes slide-2 {
-    0% {}
+ 0% {
+ }
 
-    100% {
-        transform: translate(20px, 75px);
-    }
-}
-
-@keyframes rotate {
-    0% {}
-
-    100% {
-        transform: rotate(320deg);
-    }
+ 100% {
+  transform: translate(20px, 75px);
+ }
 }
 
 @keyframes fade {
-    0% {}
+ 0% {
+ }
 
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes slide {
-    0% {}
-
-    100% {
-        left: 200px;
-    }
+ 100% {
+  opacity: 1;
+ }
 }
