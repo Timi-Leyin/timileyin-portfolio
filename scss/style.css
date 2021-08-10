@@ -15,7 +15,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Georama', 'Open Sans',sans-serif;
+  font-family: 'Georama',sans-serif;
   border-sizing: border-box;
 }
 
@@ -578,13 +578,13 @@ a.fab:hover {
 
 .logo-hero {
   position: absolute;
-  right: 0;
+  left: 50%;
   z-index: -1;
-  top: 40%;
+  top: 50%;
   opacity: .3;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  width: 950px;
+  width: 460px;
 }
 
 .fmo {
@@ -1081,13 +1081,13 @@ footer {
 
 .logo-hero {
   position: absolute;
-  right: 0;
+  left: 50%;
   z-index: -1;
-  top: 40%;
+  top: 50%;
   opacity: .3;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  width: 950px;
+  width: 460px;
 }
 
 .fmo {
@@ -1104,6 +1104,10 @@ footer {
   opacity: 0;
   -webkit-transition: 0.4s;
   transition: 0.4s;
+}
+
+.project-desc {
+  font-size: 12px;
 }
 
 .isLoading {
