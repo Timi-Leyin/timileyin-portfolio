@@ -1,112 +1,90 @@
 /** @format */
 @import "./hero";
+.isLoading{
+   opacity: 0;
+   transition:transform 0.6s ;
+}
+.project.active{
+   .project-loading-indicator .fa-spinner{
+      opacity: 0;
+      pointer-events: none;
+   }
+
+   .project-preview img{
+transform: scale(1.2);
+transition: 0.6s ;
+   }
+}
+
 
 #projects {
  position: relative;
- width: 95vw;
- padding: 100px 0;
- margin: 10rem auto;
-
- .stroke {
-  position: absolute;
-  top: 5%;
-  left: 2%;
-  filter: blur(5px);
-  height: 100%;
-  z-index: -1;
-  width: 3px;
-  opacity: 0.4;
-  font-weight: bolder;
-  font-size: 10rem;
-  padding: 1px;
-  background-color: $pry;
- }
 
  .heading {
-  margin: 10px;
-  position: absolute;
-  top: -5%;
-  left: 0%;
-  z-index: 1;
-  padding: 20px 0;
-  font-size: calc(5rem - 100%);
-  opacity: 0.12;
-  display: flex;
-
-  color: #fff;
+@extend %heading
  }
 
  .projects {
-  display: grid;
-  grid-gap: 30px;
-  justify-content: center;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 0.7fr));
-  // margin-top: 30%;
+ display: grid;
+ max-width:95vw;
+ margin: auto;
+ grid-gap: 20px 30px;
+ justify-content: center;
+//  align-items: center;
+ grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 
   .project {
    position: relative;
-   height: 250px;
-   // width: 350px;
+   height: 270px;
+   width: 100%;
+   max-width: 350px;
    display: flex;
-   margin: 20px 30px;
-   background-repeat: no-repeat;
-   background-position: center center;
+   margin: 20px auto !important;
    background-size: cover;
    align-items: center;
-   transform: perspective(1000px);
+   transform: perspective(800px);
    transform-style: preserve-3d;
    color: rgb(255, 255, 255);
-   background-color: rgb(41, 41, 41);
-   @for $i from 1 through 6{
-	&.p-#{$i}{
-			background-image:linear-gradient(rgba(0, 0, 0, 0.801),
-			rgb(0, 0, 0)),url('/img/0#{$i}.png');
-		
-			&:hover{
-				background-image:linear-gradient(
-					rgba(0, 0, 0, 0.493),
-			rgba(0, 0, 0, 0.411)),url('/img/0#{$i}.png');
-			}
-		}
-		}
-   .btn {
-    padding: 10px;
-    font-size: 14px;
-    position: absolute;
-    top: 0;
-    cursor: pointer;
-    right: 0;
-    text-shadow: 0 0 10px rgb(0, 0, 0);
-    transform: translateZ(40px);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.493);
-    // border-color:#fff;
-    font-weight: bold;
-    letter-spacing: 0.3px;
 
-    &:hover {
-     color: #fff;
-     background-color: var(--pry);
-    }
+
+
+   .project-preview{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background:linear-gradient(60deg,rgba(0, 0, 0, 0.5),#000);
+      img{
+         position: absolute;
+width: inherit;
+height: inherit;
+object-fit: cover;
+z-index: -1;
+      }
    }
+
 
    .project-info {
     margin: 10px;
     position: absolute;
-    left: -30px;
+    left: 10px;
     transform: translateZ(50px);
 
     .title {
      font-size: 1.6rem;
-     width: 70%;
+width: 70%;
     }
 
     .number {
-     font-weight: bold;
+font-weight: bold;
+color:var(--pry)
     }
 
     hr {
      width: 70%;
-     border: 2px solid;
+     border: 2px solid var(--pry);
      border-radius: 10px;
      margin: 10px 0;
     }
@@ -124,88 +102,88 @@
      }
     }
    }
+  }
+ }
+}
 
-   //
-   &.project-two {
-    margin-top: 200px;
-    margin-left: -50px;
+// PLAYGROUND
+#reasons{
+   margin:4rem 0;
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+}
+
+#reasons .heading .head{
+   @extend %heading;
+   margin: 0;
+}
+
+
+
+#reasons .heading{
+   margin: 20px;
+p,a{
+   max-width:350px;
+padding: 5px 14px;
+}
+}
+
+.reasons{
+   margin-top: 100px;
+   display: flex;
+ .reason{   
+
+   max-width: 250px;
+   min-height: 350px;
+   padding: 10px;
+   margin: 10px;
+
+   border-radius: 6px;
+   display: flex;
+   background:linear-gradient(rgba(0, 0, 0, 0.733), black), url('/img/possessed-photography-miWGZ02CLKI-unsplash.jpg') center no-repeat;
+   background-size: cover;
+
+   &:nth-child(even){
+      margin-top: -50px;
+      background:linear-gradient(rgba(0, 0, 0, 0.733), black), url('/img/arthur-osipyan-ApW5ueh85jY-unsplash.jpg') center no-repeat;
+      background-size: cover;
+   
    }
-  }
- }
-}
-
-#playground {
- position: relative;
- height: 450px;
- .swiper-wrapper {
-  display: flex;
-  padding: 20px 0;
- }
- .swiper-pagination-bullet {
-  background-color: #eee;
- }
- .content {
-  transform: translateZ(50px);
-  margin: 10px 20px;
-
-  .title {
-   font-size: calc(3rem - 100%);
-  }
-  .btn {
-   margin: 20px 0;
-   padding: 10px 15px;
-  }
- }
-
- .heading {
-  padding: 20px 0;
-  font-size: calc(5rem - 100%);
-  opacity: 0.12;
-  display: flex;
-  color: #fff;
- }
-
- .playground-card {
-  user-select: none;
-  margin: 10px auto;
-  transform-style: preserve-3d;
-  opacity: 0.1;
-  padding: 20px;
-  position: relative;
-  img {
-   width: 300px;
-   margin: auto;
-  }
- }
-}
-
-@media screen and (max-width: 747px) {
- /** @format */
-
- #projects {
-  &:after {
-   font-size: calc(10rem - 100%);
-  }
-
-  &:before {
-   top: 20%;
-   left: 10%;
-   height: 100%;
-   width: 3px;
-  }
-
-  .projects {
-   .project {
-    height: 250px;
-    min-width: 350px !important;
-    margin: 20px 30px;
-
-    //
-    &.project-two {
-     margin-top: 10px;
-     margin-left: 20px;
-    }
+   .reason_content{
+      align-self: flex-end;
+      padding: 15px;
+      h3{
+         font-size:1.5rem;
+         padding: 14px 0;
+      }
+      p{
+         font-size: 13px;
+      }
    }
-  }
- }
 }
+
+}
+
+
+
+
+
+@media screen and (min-width: 500px) {
+ #projects{
+    
+ .projects {
+ .project{
+
+   .project-info {
+      left: -30px;
+     }
+     &:nth-child(even) {
+       margin-top: 200px !important;
+      
+      }
+ }
+ 
+   }
+ }
+  }

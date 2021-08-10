@@ -3,8 +3,8 @@
 
 .hero {
     position: relative;
-    /* height: 90vh; */
-    padding: 5% 0 ;
+ min-height: 60vh; 
+padding: 0 !important;
 
     transition: 0.6s ease-out;
     transform: translateY(0);
@@ -42,11 +42,9 @@
     // height: 20px !important;
     display: flex;
     align-items: center;
-    mix-blend-mode: screen;
-    color: rgba(random(155) + 100, random(255) + 100, random(255), 1);
     color:$pry;
     opacity: .9;
-          animation: clip#{1} 3s ease-in-out infinite alternate;
+
        &::after{
            content:'_';
            display: inline;
@@ -79,13 +77,12 @@
 
 .hero .content {
     position: relative;
-    height: 50vh;
+    height: 90vh;
     width: 100%;
     display: flex;
+    // background: red;
     justify-content: space-around;
     align-items: center;
-     max-height: 100vh;
-    transform: translateY(10%); 
 }
 
 
@@ -94,23 +91,14 @@
     position: relative;
     font-size: 3rem;
     color: #fff;
-    animation: fade 0.5s 0.2s forwards linear;
-    opacity: 0;
+  
     margin: 0 5%;
     padding: 0;
-    width: 600px;
+    max-width: 600px;
     white-space: nowrap;
 
 }
 
-
-.hero .content .intro .name {
-    position: absolute;
-    left: 0;
-    z-index: 1;
-    animation: slide 0.7s 0.4s forwards;
-
-}
 
 
 .hero .logo-initial-intro-name {
@@ -122,16 +110,19 @@
     user-select: text;
     margin: 0;
     padding: 0;
-    transform: translate(20px, 20px);
-    animation: slide-2 0.7s 0.4s forwards linear;
 
 }
 
 
 
 .logo-hero {
-
-    width: 450px;
+position: absolute;
+right:0;
+z-index:-1;
+top:40%;
+opacity: .3;
+transform: translateY(-50%);
+    width:950px;
 }
 
 .fmo {

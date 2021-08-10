@@ -1,0 +1,18 @@
+%heading{
+    margin: 0 20px ;
+    padding:0 20px ;
+    font-size: calc(4.5rem - 100%);
+    // opacity: 0.12;
+    display: flex;
+    color: #00C57C;
+    text-transform: uppercase;
+    
+    background: -webkit-linear-gradient(45deg, var(--pry),#a91fe4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    p{
+        font-size: 14px;
+    }
+}

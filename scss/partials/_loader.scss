@@ -3,96 +3,46 @@
  *
  * @format
  */
-
-#container {
- // display: none;
- opacity: 0;
- transition: 0.6s 0.5s;
+ .body-content-loaded{
+     opacity: 0;
+ }
+ .loading-swipe{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    &.load-1{
+        background-color: var(--sec);
+    }
+    &.load-2{
+        background-color: var(--pry);
+    }
+    &.load-3{
+        background-color:#000;
+    }
 }
-#container.true {
- opacity: 1;
+
+
+#loader{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 99999999;
+    h2{
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        font-size: 40px;
+        transform: translate(-50%, -50%);
+        z-index: 9999999999999;
+   }
 }
-#loader {
- position: fixed;
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
- background: rgb(0, 0, 0);
- z-index: 99;
- display: grid;
- place-items: center;
- /* display: none; */
- transition: 0.6s;
- text-align: center;
 
- h2{
-     color: $pry;
-     font-size: calc(5rem - 100%);
- }
 
- .wavy-animation {
-  span {
-   display: inline-block;
-   &:nth-child(1) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.1s infinite;
-   }
-   &:nth-child(2) {
-    animation: wavy 0.8s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.2s infinite;
-   }
-   &:nth-child(3) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.3s infinite;
-   }
-   &:nth-child(4) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.4s infinite;
-   }
-   &:nth-child(5) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.5s infinite;
-   }
-   &:nth-child(6) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.6s infinite;
-   }
-   &:nth-child(7) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.7s infinite;
-   }
-   &:nth-child(8) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.8s infinite;
-   }
-   &:nth-child(9) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 0.9s infinite;
-   }
-   &:nth-child(10) {
-    animation: wavy 1s cubic-bezier(0.1, -0.28, 0.735, 0.25) 1s infinite;
-   }
-  }
- }
 
- .main {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 50vh;
-  z-index: -1;
-  width: 100%;
-  transition: 0.4s;
- }
- .loader-main-top {
-  background-color: rgb(0, 0, 0);
- }
- .loader-main-bottom {
-  background-color: rgb(0, 0, 0);
-  top: unset;
-  bottom: 0;
- }
-}
-#loader.false {
- transform: scale(0.8);
- opacity: 0;
- visibility: hidden;
- .loader-main-top {
-  transform: translateY(-100%);
- }
- .loader-main-bottom {
-  transform: translateY(100%);
- }
+#loader.false{
+
 }

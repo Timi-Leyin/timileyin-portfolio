@@ -1,13 +1,17 @@
 /** @format */
 
-#about {
- position: relative;
- .heading {
-  margin: 10px;
-  padding: 20px;
-  font-size: calc(5rem - 100%);
-  opacity: 0.12;
-  display: flex;
-  color: #fff;
- }
+.about-me{
+    position: absolute;
+    top: 10%;
+    font-size:calc(2.33rem - 100%);
+    max-width: 90vw;
+    margin: 0 10px;
+    z-index: 9;
+    left: 0%;
+    
+    >*{
+        opacity: 0;
+        max-width:500px;
+        margin:20px 0;
+    }
 }

@@ -1,5 +1,6 @@
 /** @format */
 
+
 (function (window) {
     "use strict";
     // declear varables
@@ -13,14 +14,72 @@
     const hero = document.querySelector(".hero");
     const cursor = document.querySelector(".cursor");
     const container = document.querySelector("#container");
-
+    anime({
+        targets: '#loader svg path',
+        strokeDashoffset: [anime.setDashoffset, 0],
+        easing: 'easeOutSine',
+        duration: 2000,
+        delay: function(el, i) { return i * 250 },
+        direction: 'alternate',
+        loop: true
+      });
+      let ll=document.querySelector('path').getTotalLength();
+      
+              const tilt = document.querySelectorAll('.tilt');
+      
+              VanillaTilt.init(tilt, {
+                  reverse: true,
+                  max: 15,
+                  speed: 200,
+                  scale: 1.02,
+                  maxGlare: 100,
+                  glare: false,
+                  reset: true,
+                  transition: true,
+      
+              });
+      
+              new Typed('#typewritter', {
+                  strings: ['<Graphics Designer />', '<Web Developer />', '<UI Designer />'],
+                  typeSpeed: 100,
+                  startDelay: 50,
+                  showCursor: false,
+                  contentType: 'text',
+                  cursorChar: '_',
+                  backSpeed: 50,
+                  loop: true
+              })
     // remove loader after the page is loaded
     window.addEventListener("load", function () {
         setTimeout(function () {
-            loader.classList.toggle("false");
-            container.classList.toggle("true");
-            document.body.classList.toggle("true");
-        }, 200);
+            let loaderTL= gsap.timeline({defaults:{
+                duration:0.6,
+                stagger:0.1,
+                ease:'Power2.easeInOut',
+            }});
+           loaderTL.to('#loader .load-4',{
+           opacity:0
+            })
+           loaderTL.to('#loader .load-3',{
+            width:0,
+        })
+        loaderTL.to('#loader .load-2',{
+            width:0,
+
+            })
+            loaderTL.to('#loader .load-1',{
+                width:0,
+            onComplete:()=>{
+                loaderTL.to('.body-content-loaded',{
+                    opacity:1,
+                    stagger:0.1
+                     })
+                     loader.remove()
+                document.body.classList.toggle("true");  
+            }
+            })
+          
+        });
     });
 
     // disable add dragged images
@@ -45,8 +104,8 @@
     });
     // follow the cursor on mouse move
     window.onmousemove = function (e) {
-        cursor.style.top = e.clientY-15 + "px";
-        cursor.style.left = e.clientX-15 + "px";
+        cursor.style.top = e.pageY-10 + "px";
+        cursor.style.left = e.pageX-10 + "px";
     //    alert( document.querySelector('.cursor:before'))
     };
 
@@ -65,14 +124,16 @@
 
     window.onscroll = function () {
         scroller();
+        scrollTo('.projects .project')('active');
+
         if (
             document.body.scrollTop > 300 ||
             document.documentElement.scrollTop > 300
         ) {
-            hero.classList.add("active");
+            // hero.classList.add("active");
             document.querySelector('.back-top-top').classList.add('active')
         } else {
-            hero.classList.remove("active");
+            // hero.classList.remove("active");
             document.querySelector('.back-top-top').classList.remove('active')
         }
 
@@ -85,10 +146,13 @@
             navBar.style.top = "-50%";
         }
         initialPageOffset = currentPageOffset;
-
-        scroll_guage.style.width = window.pageYOffset / 17 + "%";
-        // console.log(window.innerWidth)
-        // console.log(window.pageYOffset / 13)
+let scrollTop=window.scrollY,
+docHeight=document.body.offsetHeight,
+winHeight=window.innerHeight,
+scrollPercent=scrollTop/(docHeight - winHeight),
+scrollPercentRounded=Math.round(scrollPercent * 100)
+        scroll_guage.style.width = scrollPercentRounded + "%";
+        
     };
     // scoll
     function scroller() {
@@ -111,24 +175,34 @@
         }
     }
 
-    class Scrolling {
-        constructor(el, callback) {
-            try {
-                this.el = el;
-                let elOffset;
-                window.onscroll = () => {
-                    let nodeEl = document.querySelector(this.el);
-                    elOffset = nodeEl.getBoundingClientRect().top;
-                    //    console.log(elOffset);
-                    callback(elOffset, nodeEl);
-                };
-            } catch (error) { }
+    function scrollTo(target) {
+       return function(className){
+        const elmn = document.querySelectorAll(target);
+        for (let i = 0; i < elmn.length; i++) {
+            const elmnOffset = elmn[i].getBoundingClientRect().top;
+            if (elmnOffset < window.innerHeight-window.innerHeight/2) {
+                elmn[i].classList.add(className);
+
+                gsap.to('#'+ elmn[i].getAttribute('id') +' .isLoading',{
+                    opacity:1,
+                    duration:0.6,
+                    stagger:{
+                        amount:1
+                    }
+                });
+            
+               
+            } else {
+                elmn[i].classList.remove(className);
+                gsap.to('#'+ elmn[i].getAttribute('id') +' .isLoading',{
+                  opacity:0
+                });
+            }
         }
+       }
     }
 
-    // new Scrolling('#about',(offset,el)=>{
 
-    // console.log(offset)
-    // })
+
 
 })(window);

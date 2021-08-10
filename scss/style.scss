@@ -1,4 +1,5 @@
 @import './partials/varables','./partials/reset';
+@import "./partials/components";
 @import './partials/loader';
 @import './partials/header','./partials/hero','./partials/about','./partials/contact',
 './partials/project';
@@ -8,40 +9,29 @@
     position: fixed;
     top: -100%;
     display: none !important;
-    left: 12%;
+    left: -12%;
     height: 30px;
     width: 30px;
     border:2px solid #fff;
-    background: transparent;
+    background: none;
     border-radius: 100px;
-    mix-blend-mode: difference;
-    z-index: 999; 
-    transition: 0.1s;
+    z-index: 99; 
+    transition: 0.4ms;
 
-    &::before{
-        content: '';
-        position: fixed;
-        // top: -100%;
-        // left: 12%;
-        height: 10px;
-        width:10px;
-        background:#fff;
-    border-radius: 10px
-;  }
+
 }
 
 
-
 .scroll-guage {
-    background: var(--pry);
+    background:  var(--pry);
     position: fixed;
     top: 0px;
-    height: 2px;
+    height: 3px;
     left: 0;
     right: 0;
     width: 0px;
-    transition: 0.5s;
-    z-index: 29
+    transition: 0.2s;
+    z-index: 9999
 }
 
 
@@ -55,6 +45,9 @@
 
 .flex {
     display: flex;
+    >*{
+        margin: 4px;
+    }
 }
 
 .socials a {
