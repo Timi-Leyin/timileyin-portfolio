@@ -6,13 +6,19 @@
     display: flex;
     color: #00C57C;
     text-transform: uppercase;
-    
-    background: -webkit-linear-gradient(45deg, var(--pry),#a91fe4);
+    background: -webkit-linear-gradient(45deg, var(--pry), var(--sec),#8a00c5c2,#00c57dc0,#a91fe4,#28f6ab);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 
     p{
         font-size: 14px;
+    }
+}
+
+
+@media screen and (max-width:700px) {
+    %heading{
+        font-size:2.4rem
     }
 }

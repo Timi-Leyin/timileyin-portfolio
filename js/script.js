@@ -14,18 +14,21 @@
     const hero = document.querySelector(".hero");
     const cursor = document.querySelector(".cursor");
     const container = document.querySelector("#container");
-    anime({
+
+let anime_tl=anime.timeline()
+
+anime_tl.add({
         targets: '#loader svg path',
         strokeDashoffset: [anime.setDashoffset, 0],
         easing: 'easeOutSine',
-        duration: 2000,
-        delay: function(el, i) { return i * 250 },
+        duration: 2300,
+        // delay: function(el, i) { return i * 250 },
         direction: 'alternate',
-        loop: true
+loop:true
       });
-      let ll=document.querySelector('path').getTotalLength();
-      
-              const tilt = document.querySelectorAll('.tilt');
+
+
+      const tilt = document.querySelectorAll('.tilt');
       
               VanillaTilt.init(tilt, {
                   reverse: true,
@@ -36,50 +39,55 @@
                   glare: false,
                   reset: true,
                   transition: true,
-      
+                  
               });
+              
       
-              new Typed('#typewritter', {
-                  strings: ['<Graphics Designer />', '<Web Developer />', '<UI Designer />'],
-                  typeSpeed: 100,
-                  startDelay: 50,
-                  showCursor: false,
-                  contentType: 'text',
-                  cursorChar: '_',
-                  backSpeed: 50,
-                  loop: true
-              })
-    // remove loader after the page is loaded
-    window.addEventListener("load", function () {
-        setTimeout(function () {
-            let loaderTL= gsap.timeline({defaults:{
-                duration:0.6,
-                stagger:0.1,
-                ease:'Power2.easeInOut',
-            }});
-           loaderTL.to('#loader .load-4',{
-           opacity:0
-            })
-           loaderTL.to('#loader .load-3',{
-            width:0,
-        })
-        loaderTL.to('#loader .load-2',{
-            width:0,
+                // remove loader after the page is loaded
+               
+                window.addEventListener("DOMContentLoaded", function () {
+                    new Typed('#typewritter', {
+                        strings: ['<Graphics Designer />', '<Web Developer />', '<UI Designer />'],
+                        typeSpeed: 100,
+                        startDelay: 50,
+                        showCursor: false,
+                        contentType: 'text',
+                        cursorChar: '_',
+                        backSpeed: 50,
+                        loop: true
+                      })
+ setTimeout(()=>{
 
-            })
-            loaderTL.to('#loader .load-1',{
-                width:0,
-            onComplete:()=>{
-                loaderTL.to('.body-content-loaded',{
-                    opacity:1,
-                    stagger:0.1
-                     })
-                     loader.remove()
-                document.body.classList.toggle("true");  
-            }
-            })
-          
-        });
+        // console.log(anime_)
+        let loaderTL= gsap.timeline({defaults:{
+            duration:0.6,
+            stagger:0.1,
+            ease:'Power2.easeInOut',
+        }});
+       loaderTL.to('#loader .load-4',{
+       opacity:0
+        })
+       loaderTL.to('#loader .load-3',{
+        width:0,
+    })
+    loaderTL.to('#loader .load-2',{
+        width:0,
+
+        })
+        loaderTL.to('#loader .load-1',{
+            width:0,
+        onComplete:()=>{
+            loaderTL.to('.body-content-loaded',{
+                opacity:1,
+                stagger:0.1
+                 })
+                 loader.remove()
+            document.body.classList.toggle("true");  
+        }
+        })
+      
+
+ },200)
     });
 
     // disable add dragged images
